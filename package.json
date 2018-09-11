@@ -1,6 +1,6 @@
 {
   "name": "parcel-plugin-cssthis",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "provides CSS this support in parceljs based environments",
   "main": "index.js",
   "author": "Matias Trujillo Olivares",
@@ -13,7 +13,7 @@
   "dependencies": {
     "autoprefixer": "^9.1.0",
     "cssnano": "^4.0.5",
-    "cssthis-parse": "^0.0.4",
+    "cssthis-parse": "^0.1.0",
     "parcel-bundler": "^1.9.7"
   }
 }
